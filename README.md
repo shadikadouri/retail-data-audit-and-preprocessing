@@ -22,3 +22,6 @@ The raw data consists of two files containing transactional data for an online r
 3. Install the requirements:
    ```bash
    pip install pandas
+
+## Dataset
+"The dataset used in this project is the 'Online Retail II' dataset, which contains all the transactions occurring for a UK-based non-store online retail between 01/12/2009 and 09/12/2011. Due to file size limitations, the original dataset is not included in this repository but can be securely downloaded from the UCI Machine Learning Repository at the following link: https://archive.ics.uci.edu/dataset/502/online+retail+ii"
